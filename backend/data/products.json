@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Wheat Seeds", "seller": "Seller A", "category": "Seeds", "price": 500, "stock": 10, "image": "https://placehold.co/300x200/e8f5e9/2e7d32?text=Wheat+Seeds" },
+  { "id": 2, "name": "Urea Fertilizer", "seller": "Seller B", "category": "Fertilizer", "price": 300, "stock": 5, "image": "https://placehold.co/300x200/e3f2fd/1565c0?text=Urea+Fertilizer" },
+  { "id": 3, "name": "Mustard Seeds", "seller": "Seller A", "category": "Seeds", "price": 700, "stock": 0, "image": "https://placehold.co/300x200/fff8e1/f9a825?text=Mustard+Seeds" }
+]
